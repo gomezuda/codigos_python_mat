@@ -1,7 +1,6 @@
-nota1 = float(input("informe sua 1º nota:"))#
-nota2 = float(input("informe sua 2º nota:"))
-nota3 = float(input("informe sua 3º nota:"))
+RAIO = float(input("informe a raio:"))
+ALTURA = float(input("informe a altura:"))
+VOLUME= ((raio**2)*ALTURA*3.14159)
 
-media = (nota1 + nota2 + nota3)/3
+print(f"seu  é {VOLUME:.2f}")
 
-print(f"sua média é {media:.2f}")
