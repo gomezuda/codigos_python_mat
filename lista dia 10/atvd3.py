@@ -1,4 +1,4 @@
-idade  = int(input("informe uma idade: "))
+idade  = int(input("informe uma idade bb: "))
 
 if idade < 12:
     print("A pessoa é criança.")

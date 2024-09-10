@@ -1,4 +1,4 @@
-valor = int(input("Informe um valor:"))
+valor = int(input("Informe um valor queride:"))
 
 if 0 <= valor <= 25:
     print("O número está na faixa de 0 à 25.")
