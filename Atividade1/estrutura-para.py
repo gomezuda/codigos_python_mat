@@ -18,5 +18,5 @@ for contador in range(1,11,2):
 
 print("-"*30)
 #3° Exemplo - Número do maior pro menos
-for contador in range(10,1,-1):
+for contador in range(10 ,1,-1):
     print(contador,end=" ")
