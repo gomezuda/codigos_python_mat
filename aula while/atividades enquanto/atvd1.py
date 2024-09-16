@@ -1,14 +1,3 @@
-# while True:
-#         login = input("Login: ")
-#         senha = input("Senha: ")
-
-#         if login == senha:
-#             print("Login e senha não podem ser iguais. Tente novamente.")
-#         elif excluidos_login and login in excluidos_login:
-#             print("Este login já está em uso. Tente novamente.")
-#         else:
-#             return login, senha
-
 user1 = " " 
 while user1 == " ":
     user1 = input("Usuário: ")
